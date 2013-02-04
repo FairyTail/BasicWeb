@@ -1,3 +1,4 @@
+package com.tail.util;
 public class StringUtil
 {
 	public static boolean isBlank(String s){
