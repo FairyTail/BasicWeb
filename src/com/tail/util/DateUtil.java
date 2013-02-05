@@ -13,4 +13,5 @@ public class DateUtil
 		return !isBlank(date);
 	}
 	public static void doBuy(){}
+	public static void doSell(){}
 }
