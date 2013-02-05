@@ -12,4 +12,5 @@ public class DateUtil
 	public static boolean isNotBlank(String date){
 		return !isBlank(date);
 	}
+	public static void doBuy(){}
 }
