@@ -14,6 +14,7 @@ public class DateUtil
 	}
 	public static void doBuy(){}
 	public static void doSell(){}
+	public static void doTrade(){}
 	public static String getName(){
 		return "name";
 	}
