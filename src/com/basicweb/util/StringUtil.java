@@ -9,4 +9,6 @@ public class StringUtil
 	public static boolean isNotBlank(String s){
 		return !isBlank(s);
 	}
+	
+	public void chillJack(){}
 }
