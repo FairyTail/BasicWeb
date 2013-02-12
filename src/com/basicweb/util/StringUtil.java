@@ -13,4 +13,6 @@ public class StringUtil
 	public void chillAdmin(){}
 
 	public void chillJack(){}
+
+	public void chillJill(){}
 }
