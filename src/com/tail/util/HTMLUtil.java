@@ -9,4 +9,8 @@ public class HTMLUtil
 	public static String getDIV(){
 		return "div";
 	}
+
+	public static String getTABLE(){
+		return "table";
+	}
 }
